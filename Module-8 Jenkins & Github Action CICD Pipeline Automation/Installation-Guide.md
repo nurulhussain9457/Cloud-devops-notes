@@ -32,7 +32,7 @@ sudo apt install fontconfig openjdk-21-jre
 java -version
 ```
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r6g03my1nstrepx57g9n.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r6g03my1nstrepx57g9n.png)
 
 
 On Debian/Ubuntu, it is strongly recommended to install Java **before** Jenkins. If Jenkins is installed first and Java is added later, the Jenkins service may fail to start with:
@@ -61,7 +61,7 @@ sudo apt install jenkins
 sudo systemctl status jenkins
 ```
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jofuhezo6ig9rznflkw6.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jofuhezo6ig9rznflkw6.png)
 
 If the service is active and running, Jenkins has been installed successfully.
 
@@ -89,7 +89,7 @@ http://<public-ip>:8080
 
 You will see the **Getting Started** page.
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ya7jcyanp3vki1m7frvl.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ya7jcyanp3vki1m7frvl.png)
 
 ### Unlock Jenkins
 
@@ -99,7 +99,7 @@ You need to enter the initial admin password stored in the following file on you
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bbxp593cdhncunmxnxo5.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bbxp593cdhncunmxnxo5.png)
 
 Copy the password and paste it into the Jenkins setup page.
 
@@ -109,17 +109,17 @@ After unlocking Jenkins, click on:
 
 **Install suggested plugins**
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/huual83b283q458ovuo1.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/huual83b283q458ovuo1.png)
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f5v964etsl1xuvio0ibg.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f5v964etsl1xuvio0ibg.png)
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pb3bkv60r10td71kja2o.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pb3bkv60r10td71kja2o.png)
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/asztirdnbcr3rsnvcuwx.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/asztirdnbcr3rsnvcuwx.png)
 
 >### **_Congratulations you have setup the Jenkins_**
 
 ---
 
-✍️ **Author**: *Omkar Sharma*  
+✍️ **Author**: *nurul hussain*  
 📬 *Feel free to connect on [LinkedIn](https://www.linkedin.com/in/omkarsharmaa/) or explore more on [GitHub](https://github.com/omkarsharma2821)*
