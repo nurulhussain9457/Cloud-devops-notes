@@ -222,6 +222,6 @@ docker push nurulhussain9457/nurul-node-app:latest
 
 ---
 
-✍️ **Author**: *Omkar Sharma*  
+✍️ **Author**: *nurul hassan*  
 📬 *Feel free to connect on [LinkedIn](www.linkedin.com/in/
 nurul-hassan-224627340) or explore more on [GitHub](https://github.com/nurulhussain9457 )*
