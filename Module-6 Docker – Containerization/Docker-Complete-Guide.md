@@ -138,13 +138,13 @@ docker run -it -p <local_machine_port>:<container_port> <image_name>
 Example:
 
 ```bash
-docker run -it -p 3000:3000 omkarsharma2821/nurul-node-app
+docker run -it -p 3000:3000 nurulhussain9457/nurul-node-app
 ```
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ffcymh6eiist6qzpups.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ffcymh6eiist6qzpups.png)
 
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xzvxa6s6tyuyganw0ehl.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xzvxa6s6tyuyganw0ehl.png)
 
 
 Allows access to container services from local machine.
