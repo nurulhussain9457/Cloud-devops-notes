@@ -20,7 +20,7 @@ Once the application is ready on the local machine, the next step is deployment.
 
 To make the application publicly accessible, the developer needs a server.
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eocpkb3oqatp7jsot0tu.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eocpkb3oqatp7jsot0tu.png)
 
 ### Options:
 
@@ -50,7 +50,7 @@ As traffic grows, scaling becomes necessary.
 #### Vertical Scaling:
 
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k9vvx8wvbn4shed1tlpp.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k9vvx8wvbn4shed1tlpp.png)
 
 * Increase RAM (4GB → 16GB)
 * Increase CPU cores
@@ -72,7 +72,7 @@ Cloud providers like:
 
 transformed how applications are deployed.
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mtulsuvvpezptpzm5xqq.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mtulsuvvpezptpzm5xqq.png)
 
 ### Benefits:
 
@@ -155,7 +155,7 @@ When applications grow:
 
 Problems:
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ij62v3a72dfkh7rl6zmc.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ij62v3a72dfkh7rl6zmc.png)
 
 * How to create containers?
 * How to restart failed ones?
@@ -192,7 +192,7 @@ Kubernetes is an **open-source container orchestration platform** that automates
 
 ## Why the Name Kubernetes?
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9r2hl9k69cc2i13wdk24.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9r2hl9k69cc2i13wdk24.png)
 
 * Derived from Greek word meaning **“Helmsman” (ship pilot)**
 * Represents managing containers like steering a ship
@@ -224,5 +224,5 @@ Kubernetes explained, what is Kubernetes, container orchestration, Docker vs Kub
 
 ---
 
-✍️ **Author**: *Omkar Sharma*  
-📬 *Feel free to connect on [LinkedIn](https://www.linkedin.com/in/omkarsharmaa/) or explore more on [GitHub](https://github.com/omkarsharma2821)*
+✍️ **Author**: *nurul hussain*  
+📬 *Feel free to connect on [LinkedIn]( https://www.linkedin.com/in/nurul-hassan-224627340/) or explore more on [GitHub](https://github.com/nurulhussain9457 )*
