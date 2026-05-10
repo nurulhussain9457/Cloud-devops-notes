@@ -1,5 +1,5 @@
-resource "aws_s3_bucket" "omkar_bucket" {
-  bucket = "omkar-terraform-bucket-2821"
+resource "aws_s3_bucket" "nurul_bucket" {
+  bucket = "nurul-terraform-bucket-2821"
 }
 resource "aws_instance" "my_ec2" {
   ami           = "ami-0a14f53a6fe4dfcd1"
