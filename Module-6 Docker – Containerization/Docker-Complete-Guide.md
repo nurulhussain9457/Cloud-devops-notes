@@ -21,7 +21,7 @@ Environment Replication Issues
   - Another developer installs Node.js 18.x
   - Result: Application may break or behave differently.
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6pjjltawl7yslx55xv9g.png)
+![nurul hassan](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6pjjltawl7yslx55xv9g.png)
 
 Docker solves this by standardizing environments so applications run the same everywhere.
 
@@ -138,7 +138,7 @@ docker run -it -p <local_machine_port>:<container_port> <image_name>
 Example:
 
 ```bash
-docker run -it -p 3000:3000 omkarsharma2821/omkar-node-app
+docker run -it -p 3000:3000 omkarsharma2821/nurul-node-app
 ```
 
 ![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ffcymh6eiist6qzpups.png)
@@ -176,7 +176,7 @@ npm install express
 Build Docker Image:
 
 ```bash
-docker build -t omkar-node-app .
+docker build -t nurul-node-app .
 ```
 
 > As if now the img is avaialbel locally to push to hub.docker.com you need to run the following coommands
@@ -196,7 +196,7 @@ docker tag <local_image_name>:latest <dockerhub_username>/<repo_name>:latest
 Example
 
 ```
-docker tag omkar-nodejs:latest omkarsharma2821/omkar-node-app:latest
+docker tag nurul-nodejs:latest nurulhussain9457/nurul-node-app:latest
 
 ```
 Push to docker hub
@@ -208,7 +208,7 @@ docker push <dockerhub_username>/<repo_name>:latest
 Example
 
 ```
-docker push omkarsharma2821/omkar-node-app:latest
+docker push nurulhussain9457/nurul-node-app:latest
 
 ```
 
@@ -223,4 +223,5 @@ docker push omkarsharma2821/omkar-node-app:latest
 ---
 
 ✍️ **Author**: *Omkar Sharma*  
-📬 *Feel free to connect on [LinkedIn](https://www.linkedin.com/in/omkarsharmaa/) or explore more on [GitHub](https://github.com/omkarsharma2821)*
+📬 *Feel free to connect on [LinkedIn](www.linkedin.com/in/
+nurul-hassan-224627340) or explore more on [GitHub](https://github.com/nurulhussain9457 )*
