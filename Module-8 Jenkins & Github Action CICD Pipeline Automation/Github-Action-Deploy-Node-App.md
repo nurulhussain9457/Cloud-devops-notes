@@ -1,6 +1,6 @@
 # Deploy Node.js & Express Application Using CI/CD (GitHub Actions + Docker)
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ps32jmakv6wuq4qn4d5.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ps32jmakv6wuq4qn4d5.png)
 
 ## Quick Flow before deep dive
 
@@ -131,7 +131,7 @@ docker run -d -p 8080:8080 --rm node-app
 ```bash
 curl http://localhost:8080
 ```
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4kubj59fa3vovhn8kr2n.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4kubj59fa3vovhn8kr2n.png)
 
 > curl is a command-line tool used to transfer data to and from a server using URLs.
 
@@ -164,7 +164,7 @@ docker compose up -d
 
 > In browser test the application 
 
-![omkar sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7mayfok9id1v7u88l5qo.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7mayfok9id1v7u88l5qo.png)
 ### Stop the Application
 
 ```bash
@@ -178,8 +178,6 @@ curl http://localhost:8080
 ```
 
 ## 9. Push Code to GitHub
-
-Check my github repo for this task - [omkarsharma2821](https://github.com/omkarsharma2821)
 
 Initialize Git and push code:
 
@@ -341,7 +339,7 @@ Go to:
 GitHub → Repo → Settings → Secrets → Actions
 ```
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hobdvgqlo8sbungtoqd2.png)
+![nurul hussain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hobdvgqlo8sbungtoqd2.png)
 
 
 Add:
@@ -364,5 +362,5 @@ SSH_USERNAME - <root or ubuntu>
 
 ---
 
-✍️ **Author**: *Omkar Sharma*  
+✍️ **Author**: *nurul hussain*  
 📬 *Feel free to connect on [LinkedIn](https://www.linkedin.com/in/omkarsharmaa/) or explore more on [GitHub](https://github.com/omkarsharma2821)*
