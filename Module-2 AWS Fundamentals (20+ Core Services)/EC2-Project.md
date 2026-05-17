@@ -57,6 +57,3 @@ By default, AWS assigns a dynamic public IP that changes when the instance is re
 
 Now, your app will remain accessible even after a reboot.
 ---
-
-✍️ **Author**: *Omkar Sharma*  
-📬 *Feel free to connect on [LinkedIn](https://www.linkedin.com/in/omkarsharmaa/) or explore more on [GitHub](https://github.com/omkarsharma2821)* 
