@@ -126,7 +126,7 @@ docker rm -f <container_id_or_name>
   * Both remain isolated from each other.
 
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ah4l367gs3rguk8o8ied.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ah4l367gs3rguk8o8ied.png)
 
 
 ## Port Mapping
