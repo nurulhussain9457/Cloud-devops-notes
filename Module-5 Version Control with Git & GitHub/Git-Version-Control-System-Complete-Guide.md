@@ -1,4 +1,4 @@
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5s1phtnkfb92352v8p3s.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5s1phtnkfb92352v8p3s.png)
 
 ## 1. What is a Version Control System (VCS)?
 
@@ -13,7 +13,7 @@ As a project grows, code is continuously updated—new features are added, bugs 
 - Why was the change introduced?
 - How can we revert to an older stable version?
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/by0tqcg9p3za9b7hfzkj.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/by0tqcg9p3za9b7hfzkj.png)
 
 A Version Control System solves this by maintaining a complete timeline (history) of code changes, making collaboration, tracking, and rollback easy and reliable.
 
@@ -36,7 +36,7 @@ git -v
 
 If Git is installed correctly, it will display the installed version.
 
-![Omkar Sharma](https://eraser.imgix.net/workspaces/s013nvOz7IYira3OuWD2/n1edSXVxagZwG0BJM01i1cKgTsY2/image_zDptJqHPPzahC8aGPj_vc.png?ixlib=js-3.8.0)
+![nurul](https://eraser.imgix.net/workspaces/s013nvOz7IYira3OuWD2/n1edSXVxagZwG0BJM01i1cKgTsY2/image_zDptJqHPPzahC8aGPj_vc.png?ixlib=js-3.8.0)
 
 ### What is Git?
 
@@ -46,21 +46,21 @@ Git is a **distributed version control system** that allows multiple developers 
 
 In an organization, multiple developers work on the same codebase. Git uses global configuration (username and email) to identify **who made which changes** in the commit history.
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1mr5gb4euz0fozco6d9h.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1mr5gb4euz0fozco6d9h.png)
 
 
 ### Setting Up Git Global Configuration
 
 First let's create a folder where we keep our source code and config the user name and email to it.
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oonf06y7g0t9rpbzvuic.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oonf06y7g0t9rpbzvuic.png)
 
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
 ```
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gf6zxz862lnlfatpx02d.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gf6zxz862lnlfatpx02d.png)
 
 ## 3. Version Controlling with Git
 
@@ -68,9 +68,9 @@ git config --global user.email "your@email.com"
 
 By default, a folder is **not Git-enabled**, and Git does not track it.
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wwexz5dn31e0oo2qxlml.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wwexz5dn31e0oo2qxlml.png)
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j0vu0bevrzcddr0g2b3k.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j0vu0bevrzcddr0g2b3k.png)
 
 To enable Git tracking:
 
@@ -79,9 +79,9 @@ git init
 ```
 This initializes a Git repository in the folder.
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hwncf6nc222qpksm8ci4.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hwncf6nc222qpksm8ci4.png)
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ksimaxnqmoj0qb6blyj.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ksimaxnqmoj0qb6blyj.png)
 
 
 ### Tracking Files
@@ -94,9 +94,9 @@ git add index.js
 git add <File Path Name>
 ```
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w9qghno02qtz0di9u744.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w9qghno02qtz0di9u744.png)
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u1mxssb34w2bk7eketw7.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u1mxssb34w2bk7eketw7.png)
 
 
 Once added, Git starts tracking changes to the file.
@@ -109,7 +109,7 @@ git diff
 
 Shows differences between the working directory and the staging area.
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/11dcy4f03c5i0wsy9jb7.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/11dcy4f03c5i0wsy9jb7.png)
 
 ### Add Multiple Files
 
@@ -140,15 +140,15 @@ git commit -m "commit message"
 ```
 
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vu3dkey5r89wzk3p6rt8.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vu3dkey5r89wzk3p6rt8.png)
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yw36a4itbigdk4eca0a4.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yw36a4itbigdk4eca0a4.png)
 
 ### Staging Area
 
 The staging area is an intermediate step where files are prepared before committing.
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vf75cste8ao7keehe8pk.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vf75cste8ao7keehe8pk.png)
 
 ### Viewing Commit History
 
@@ -158,19 +158,19 @@ git log --oneline
 git diff <to see the changes in code file>
 ```
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/50est3wieqcb0kxokpxh.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/50est3wieqcb0kxokpxh.png)
 
 ```bash
 git show <commit id> to see the changes made in particular commit
 ```
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/at538nbz8ui4ojr1e41c.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/at538nbz8ui4ojr1e41c.png)
 
 ```bash
 git blame <File Name> to see the changes made in particular file by whom
 ```
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n7k1wtbd94i5ay89tts9.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n7k1wtbd94i5ay89tts9.png)
 
 
 ### Reverting Back
@@ -180,27 +180,25 @@ git reset --hard <commit id>
 
 here we are moving our head so we will loose the below commits
 ```
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5kdcp0gt4k64gcadt5ps.jpeg)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5kdcp0gt4k64gcadt5ps.jpeg)
 
 whenever we are saying VCS we should have something when we do any thing wrong we can revert back.....so Git allows reverting commits to return to a previous stable state when required.
 
 In this feature we use the concept of Linked List head points to the latest commit.....so we just point our head where we want to revert.
 
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3po86xpr8h1ceb89hb5r.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3po86xpr8h1ceb89hb5r.png)
 
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cbs8vnwc3m6iefswc9kg.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cbs8vnwc3m6iefswc9kg.png)
 
 ```bash
 git revert <commit id>
 ```
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epd2ajdmg8miznlzpv1y.jpeg)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epd2ajdmg8miznlzpv1y.jpeg)
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cpcpciarw6cmg35ihzav.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cpcpciarw6cmg35ihzav.png)
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ef8qyry76w8j18d3nbij.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ef8qyry76w8j18d3nbij.png)
 
 ---
-✍️ **Author**: *Omkar Sharma*  
-📬 *Feel free to connect on [LinkedIn](https://www.linkedin.com/in/omkarsharmaa/) or explore more on [GitHub](https://github.com/omkarsharma2821)*
