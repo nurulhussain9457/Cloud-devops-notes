@@ -363,4 +363,3 @@ SSH_USERNAME - <root or ubuntu>
 ---
 
 ✍️ **Author**: *nurul hussain*  
-📬 *Feel free to connect on [LinkedIn](https://www.linkedin.com/in/omkarsharmaa/) or explore more on [GitHub](https://github.com/omkarsharma2821)*
