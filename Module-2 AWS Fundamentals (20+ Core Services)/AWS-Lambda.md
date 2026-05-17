@@ -12,7 +12,7 @@ AWS Lambda is a **serverless compute service** that executes your code in respon
 - Pay-per-use billing model  
 - Deep integration with AWS services  
 
-![omkar sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g447m05hpbvo9k7flp5w.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g447m05hpbvo9k7flp5w.png)
 
 ## Why Is AWS Lambda So Popular?
 
@@ -40,7 +40,7 @@ This makes it perfect for automation, integrations, and reactive systems.
 Lambda supports Python, Node.js, Java, Go, .NET, Ruby, and custom runtimes—giving teams flexibility to choose the best language.
 
 
-![omkar sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aeu2zvp9xjdo1ph0jy1t.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aeu2zvp9xjdo1ph0jy1t.png)
 
 
 ## What Problem Does AWS Lambda Solve?
@@ -192,5 +192,3 @@ def lambda_handler(event, context):
 
 ---
 
-✍️ **Author**: *Omkar Sharma*  
-📬 *Feel free to connect on [LinkedIn](https://www.linkedin.com/in/omkarsharmaa/) or explore more on [GitHub](https://github.com/omkarsharma2821)* 
