@@ -17,7 +17,7 @@ DevOps is not only about CI/CD .... it involves many other vital aspects of a pr
 
 ## Why DevOps?
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h0h4edquanlt61d6es4y.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h0h4edquanlt61d6es4y.png)
 
 As shown in the diagram earlier, all these activities were traditionally manual. Multiple teams worked in silos, and it often took many days to release a project or application. DevOps streamlines and accelerates this entire process.
 
@@ -29,5 +29,3 @@ As shown in the diagram earlier, all these activities were traditionally manual.
 
 ---
 
-✍️ **Author**: *Omkar Sharma*  
-📬 *Feel free to connect on [LinkedIn](https://www.linkedin.com/in/omkarsharmaa/) or explore more on [GitHub](https://github.com/omkarsharma2821)* 
