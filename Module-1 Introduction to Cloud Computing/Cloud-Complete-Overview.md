@@ -5,13 +5,13 @@ Cloud computing is the practice of renting computing resources such as servers, 
 In simple terms, cloud computing allows you to store data and run applications on remote servers hosted over the internet rather than on local machines or on-premises infrastructure.
 
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fp6tktgilx2l24wlq82v.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fp6tktgilx2l24wlq82v.png)
 
 
 ## Key Features of Cloud Computing
 
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4rscfmqlmmx59wl6ms8l.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4rscfmqlmmx59wl6ms8l.png)
 
 - **Scalability**  
   Ability to allocate and deallocate resources based on demand.
@@ -38,7 +38,7 @@ In simple terms, cloud computing allows you to store data and run applications o
 ## Cloud Service Models
 
 
-![Cloud Service Model by Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1hitz6c7p1ocaezjyd05.png)
+![Cloud Service Model by nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1hitz6c7p1ocaezjyd05.png)
 
 ### Infrastructure as a Service (IaaS)
 
@@ -86,7 +86,7 @@ The shared responsibility model defines how security and management responsibili
 ## Cloud Deployment Models
 
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h8xceqee57ldiex6goo7.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h8xceqee57ldiex6goo7.png)
 
 
 ### Private Cloud
@@ -195,7 +195,7 @@ A geographical area containing multiple datacenters to ensure resiliency and rel
 
 ## Virtual Machines vs Containers
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b5w0esojhad9ea0o03iq.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b5w0esojhad9ea0o03iq.png)
 
 ### Virtual Machines
 - Reduce cost compared to physical hardware.
@@ -215,5 +215,3 @@ Cloud computing enables organizations to build, deploy, and scale applications e
 
 ---
 
-✍️ **Author**: *Omkar Sharma*  
-📬 *Feel free to connect on [LinkedIn](https://www.linkedin.com/in/omkarsharmaa/) or explore more on [GitHub](https://github.com/omkarsharma2821)* 
