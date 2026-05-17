@@ -17,7 +17,7 @@ Here’s how the flow works:
 
 7. Once the application is live, monitoring tools like **Prometheus** are used to monitor application health, metrics, and performance.
 
-![Omkar Sharma](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t8degmf4msdmeuibddkh.png)
+![nurul](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t8degmf4msdmeuibddkh.png)
 
 ### In Simple Terms
 
